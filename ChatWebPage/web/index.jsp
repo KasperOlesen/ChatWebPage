@@ -9,12 +9,20 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>ChatClient project Webserver</title>
+        <link rel="stylesheet" href="main.css"/>
     </head>
     <body>
-        <form>
-            <label>Link to Client:</label> 
-            <a href="Succes.jsp"> Login </a>
-        </form>
+        <div id="box">
+
+            <div id="download">
+                <a href=""> DOWNLOAD CLIENT </a>
+            </div>
+            
+            <div id="login">
+                <a href="Succes.jsp"> LOGIN </a>
+            </div>
+
+        </div>
     </body>
 </html>
