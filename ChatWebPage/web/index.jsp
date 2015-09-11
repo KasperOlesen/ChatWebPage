@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>ChatClient project Webserver</title>
+        <title>ChatClient project Webserver </title>
         <link rel="stylesheet" href="main.css"/>
     </head>
     <body>
