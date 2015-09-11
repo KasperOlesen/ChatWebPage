@@ -15,11 +15,11 @@
     <body>
         <div id="box">
 
-            <div id="download">
+            <div id="text">
                 <a href=""> DOWNLOAD CLIENT </a>
             </div>
             
-            <div id="login">
+            <div id="text">
                 <a href="Succes.jsp"> LOGIN </a>
             </div>
 

@@ -9,13 +9,25 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>ChatClient project Webserver</title>
+        <link rel="stylesheet" href="main.css"/>
     </head>
     <body>
-        <form method="POST" action="j_security_check">
-            <input type="text" name="j_username">
-            <input type="password" name="j_password">
-            <input type="submit" value="Login">
-        </form>
-    </body>
-</html>
+        <div id="box">
+            <form method="POST" action="j_security_check">
+
+                <div id="login">
+                    <p>Username:</p>
+                    <input type="text" name="j_username">
+                </div>
+
+                <div id="login">
+                    <p>Password:</p>
+                    <input type="password" name="j_password">
+                </div>
+
+                <input type="submit" value="Login">
+                </div>
+
+                </body>
+                </html>

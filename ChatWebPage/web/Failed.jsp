@@ -9,9 +9,14 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>ChatClient project Webserver</title>
+        <link rel="stylesheet" href="main.css"/>
     </head>
     <body>
-        <h1>FAILED</h1>
+        <div id="box">
+            <div id="text">
+                <h1>LOGIN FAILED</h1>
+            </div>
+        </div>
     </body>
 </html>
