@@ -1,2 +1,2 @@
 # ChatWebPage
-The website part of the ChatClient project
+This website is the part of the ChatClient project
